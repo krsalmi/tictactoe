@@ -1,4 +1,4 @@
-# tictactoe
+# Tic Tac Toe
 The classic game as a Python program with an AI player. The board and resulting moves are printed onto stdout.  
 Run the program with `python3 game.py`. The program will prompt the user to choose from 3 possible modes:  
 1: two people
@@ -20,5 +20,5 @@ most favorable for the current player. If multiple moves result in the same (bes
 the first one simulated will be returned.  
 I originally wrote the AI player section of this program for the Harvard ai50 course, but I wanted to write a complete game with multiple play modes.
   
-Here's a screen recording of two AI players battling it out:
+Here's a screen recording of two AI players battling it out:  
 <img src="resources/ezgif.com-gif-maker.gif" alt="screenshot of two AI players"/>
