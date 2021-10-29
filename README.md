@@ -19,3 +19,6 @@ who won the game in that one simulation. Ultimately, minimax() will save the val
 most favorable for the current player. If multiple moves result in the same (best) outcome,
 the first one simulated will be returned.  
 I originally wrote the AI player section of this program for the Harvard ai50 course, but I wanted to write a complete game with multiple play modes.
+  
+Here's a screen recording of two AI players battling it out:
+<img src="resources/ezgif.com-gif-maker.gif" alt="screenshot of two AI players"/>
