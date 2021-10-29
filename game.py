@@ -43,6 +43,8 @@ def define_players_print_instructions():
 		print("Human players will be asked to enter the number of the slot they've chosen")
 		print("The player who plays 'X' gets the first turn")
 	else:
+		PL_1 = 'X'
+		PL_2 = 'O'
 		print("Selected game mode = 3, two AI players competing")
 
 # Initial, empty board
@@ -80,7 +82,7 @@ def run_game(board):
 	print_turn(next_player)
 	print_board(board)
 	if MODE == 3 or (MODE ==2 and next_player != PL_1):
-		time.sleep(2)
+		time.sleep(1)
 		move = ai.minimax(board)
 	else:
 		move = get_human_move(next_player, board)
