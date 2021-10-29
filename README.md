@@ -1,9 +1,9 @@
 # Tic Tac Toe
 The classic game as a Python program with an AI player. The board and resulting moves are printed onto stdout.  
 Run the program with `python3 game.py`. The program will prompt the user to choose from 3 possible modes:   
-1: two people. 
-2: person vs AI player. 
-3: two AI players. 
+1: two people.  
+2: person vs AI player.  
+3: two AI players.  
   
 After the mode is chose, the user, who will be identified as Player 1, will choose to play with either 'X' or 'O', after which the game will begin.  
 If the chosen mode includes a human player, that player will be prompted to choose a number between 1 and 9 corresponding to the slot on the board the player
