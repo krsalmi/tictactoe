@@ -1,9 +1,9 @@
 # Tic Tac Toe
-⁣⭕❕⭕❕❌
-➖➕➖➕➖
-⭕❕⁣❌❕⭕
-➖➕➖➕➖
-❌❕❌❕⭕
+⁣⭕❕⭕❕❌  
+➖➕➖➕➖  
+⭕❕⁣❌❕⭕  
+➖➕➖➕➖  
+❌❕❌❕⭕  
 The classic game as a Python program with an AI player. The board and resulting moves are printed onto stdout.  
 Run the program with `python3 game.py`. The program will prompt the user to choose from 3 possible modes:   
 1: two people.  
